@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying at [WBS CODING SCHOOL](https://www.wbscodingschool.com/web-app-development-bootcamp/)  
   
 
-- 🌱 I’m currently learning C# at Udemy [C# Masterclass](https://www.udemy.com/course/die-komplette-csharp-masterclass/)  
+- 🌱 I’m currently learning at Udemy 
   
 
 - ❓ Ask me everything you want  
