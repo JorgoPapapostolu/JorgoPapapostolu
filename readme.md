@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Jorgos, I have started my development journey in December 2022 🌱💻</div>  
+### <div align="center">I'm Jorgos, I have started my development journey in 2022 🌱💻</div>  
   
 
 - 🔭 I’m currently studying at [WBS CODING SCHOOL](https://www.wbscodingschool.com/web-app-development-bootcamp/)  
