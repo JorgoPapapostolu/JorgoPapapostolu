@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying at [WBS CODING SCHOOL](https://www.wbscodingschool.com/web-app-development-bootcamp/)  
   
 
-- 🌱 I’m currently learning at Udemy 
+- 🌱 I love to learn new technologies to be a better developer
   
 
 - ❓ Ask me everything you want  
