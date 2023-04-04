@@ -19,8 +19,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/jorgos-papapostolu-01a38b1a3" target="_blank">
+<a href="https://linkedin.com/in/jorgos-papapostolu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  <a href="https://www.jorgos.dev" target="_blank">
+<img src=https://img.shields.io/badge/homepage-purple?logo=javascript&style=for-the-badge&logo=user&logoColor=white alt=homepage style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
