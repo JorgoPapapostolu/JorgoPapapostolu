@@ -9,10 +9,7 @@
   
 
 - ❓ Ask me everything you want  
-  
-
-- ⚡ Fun fact: I quit my currently job to learn software development  
-  
+    
 
 <br/>  
 
