@@ -2,7 +2,7 @@
 ### <div align="center">I'm Jorgos, I have started my software development journey in 2022 🌱💻</div>  
   
 
-- 🔭 I’m currently studying at [WBS CODING SCHOOL](https://www.wbscodingschool.com/web-app-development-bootcamp/)  
+- 🔭 I began my programming journey at [WBS CODING SCHOOL](https://www.wbscodingschool.com/web-app-development-bootcamp/)  
   
 
 - 🌱 I love to learn new technologies to be a better developer
