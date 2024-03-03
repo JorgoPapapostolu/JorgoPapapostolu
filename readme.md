@@ -6,6 +6,9 @@
   
 
 - 🌱 I love to learn new technologies to be a better developer
+
+  
+- 🌱 Actually working at Zollner Elektronik AG as a Software Developer SAP BTP/SAP Fiori
   
 
 - ❓ Ask me everything you want  
